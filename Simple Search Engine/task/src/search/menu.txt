@@ -1,0 +1,4 @@
+=== Menu ===
+1. Find a person
+2. Print all people
+0. Exit

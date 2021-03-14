@@ -1,0 +1,41 @@
+# Project exclude paths
+/.gradle/
+/Problems/Backward indexes/out/
+/Problems/Backward indexes/out/production/classes/
+/Problems/Concat positive numbers/out/
+/Problems/Concat positive numbers/out/production/classes/
+/Problems/Creating a map/out/
+/Problems/Creating a map/out/production/classes/
+/Problems/Creating a set/out/
+/Problems/Creating a set/out/production/classes/
+/Problems/Filtering the list/out/
+/Problems/Filtering the list/out/production/classes/
+/Problems/Find the nearest number/out/
+/Problems/Find the nearest number/out/production/classes/
+/Problems/Greek letters/out/
+/Problems/Greek letters/out/production/classes/
+/Problems/Initialize an object of a generic class/out/
+/Problems/Initialize an object of a generic class/out/production/classes/
+/Problems/Max and Min/out/
+/Problems/Max and Min/out/production/classes/
+/Problems/Modifying a map/out/
+/Problems/Modifying a map/out/production/classes/
+/Problems/Pick your team/out/
+/Problems/Pick your team/out/production/classes/
+/Problems/Removing duplicates and sorting/out/
+/Problems/Removing duplicates and sorting/out/production/classes/
+/Problems/Spell checker/out/
+/Problems/Spell checker/out/production/classes/
+/Problems/Squares list/out/
+/Problems/Squares list/out/production/classes/
+/Problems/Symmetric difference/out/
+/Problems/Symmetric difference/out/production/classes/
+/Problems/Template Method/out/
+/Problems/Template Method/out/production/classes/
+/Problems/The longest string in the list/out/
+/Problems/The longest string in the list/out/production/classes/
+/Problems/Tricky sub-maps/out/
+/Problems/Tricky sub-maps/out/production/classes/
+/Simple Search Engine/task/build/
+/Simple Search Engine/task/out/
+/Simple Search Engine/task/out/production/classes/
